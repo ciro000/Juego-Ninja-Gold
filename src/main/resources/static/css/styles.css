@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+
+
+.places{
+	margin:10px;
+	display: flex;
+	gap: 20px;
+	
+}
+
+.lugares{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	border: solid black 3px;
+	border-radius: 1px;
+	padding: 10px;
+	
+}
+
+.actividades{
+	border: solid black 3px;
+	border-radius: 1px;
+	padding: 20px;
+	width: 677px;
+	overflow: scroll;
+	height: 100px;
+}
+
+.reset{
+	margin-top: 20px;
+}
